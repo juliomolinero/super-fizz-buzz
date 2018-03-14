@@ -1,0 +1,10 @@
+C:\molinej\web\Headspring\SuperFizzBuzzClient\bin\Debug\SuperFizzBuzzClient.exe.config
+C:\molinej\web\Headspring\SuperFizzBuzzClient\bin\Debug\SuperFizzBuzzClient.exe
+C:\molinej\web\Headspring\SuperFizzBuzzClient\bin\Debug\SuperFizzBuzzClient.pdb
+C:\molinej\web\Headspring\SuperFizzBuzzClient\bin\Debug\SuperFizzBuzz.dll
+C:\molinej\web\Headspring\SuperFizzBuzzClient\bin\Debug\SuperFizzBuzz.pdb
+C:\molinej\web\Headspring\SuperFizzBuzzClient\obj\Debug\SuperFizzBuzzClient.csprojResolveAssemblyReference.cache
+C:\molinej\web\Headspring\SuperFizzBuzzClient\obj\Debug\SuperFizzBuzzClient.csproj.CoreCompileInputs.cache
+C:\molinej\web\Headspring\SuperFizzBuzzClient\obj\Debug\SuperFizzBuzzClient.csproj.CopyComplete
+C:\molinej\web\Headspring\SuperFizzBuzzClient\obj\Debug\SuperFizzBuzzClient.exe
+C:\molinej\web\Headspring\SuperFizzBuzzClient\obj\Debug\SuperFizzBuzzClient.pdb

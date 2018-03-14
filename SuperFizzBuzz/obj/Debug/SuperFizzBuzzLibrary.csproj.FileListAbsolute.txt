@@ -1,0 +1,6 @@
+C:\molinej\web\Headspring\SuperFizzBuzz\bin\Debug\SuperFizzBuzz.dll
+C:\molinej\web\Headspring\SuperFizzBuzz\bin\Debug\SuperFizzBuzz.pdb
+C:\molinej\web\Headspring\SuperFizzBuzz\obj\Debug\SuperFizzBuzzLibrary.csprojResolveAssemblyReference.cache
+C:\molinej\web\Headspring\SuperFizzBuzz\obj\Debug\SuperFizzBuzzLibrary.csproj.CoreCompileInputs.cache
+C:\molinej\web\Headspring\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.dll
+C:\molinej\web\Headspring\SuperFizzBuzz\obj\Debug\SuperFizzBuzz.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFizzBuzzLibrary", "SuperFizzBuzz\SuperFizzBuzzLibrary.csproj", "{F2444D9C-60FE-4493-A0F4-D09FDC69EE9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFizzBuzzClientPersonal", "SuperFizzBuzzClient\SuperFizzBuzzClientPersonal.csproj", "{476DAEB9-C7C3-4C92-9081-DD3218EAE662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFizzBuzzClientBasic", "SuperFizzBuzzClientBasic\SuperFizzBuzzClientBasic.csproj", "{A9E0CF07-0011-4E8F-A18B-2978B9BD9C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFizzBuzzClientAdvanced", "SuperFizzBuzzClientAdvanced\SuperFizzBuzzClientAdvanced.csproj", "{4B136C3A-ED8D-4D8A-89A0-7ACF7E0FCEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFizzBuzzLibraryTests", "SuperFizzBuzzLibraryTests\SuperFizzBuzzLibraryTests.csproj", "{D498F13E-59CA-4BB6-BCEF-F1C930A018EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2444D9C-60FE-4493-A0F4-D09FDC69EE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2444D9C-60FE-4493-A0F4-D09FDC69EE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2444D9C-60FE-4493-A0F4-D09FDC69EE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2444D9C-60FE-4493-A0F4-D09FDC69EE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476DAEB9-C7C3-4C92-9081-DD3218EAE662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476DAEB9-C7C3-4C92-9081-DD3218EAE662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476DAEB9-C7C3-4C92-9081-DD3218EAE662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476DAEB9-C7C3-4C92-9081-DD3218EAE662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E0CF07-0011-4E8F-A18B-2978B9BD9C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E0CF07-0011-4E8F-A18B-2978B9BD9C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E0CF07-0011-4E8F-A18B-2978B9BD9C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E0CF07-0011-4E8F-A18B-2978B9BD9C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B136C3A-ED8D-4D8A-89A0-7ACF7E0FCEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B136C3A-ED8D-4D8A-89A0-7ACF7E0FCEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B136C3A-ED8D-4D8A-89A0-7ACF7E0FCEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B136C3A-ED8D-4D8A-89A0-7ACF7E0FCEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D498F13E-59CA-4BB6-BCEF-F1C930A018EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D498F13E-59CA-4BB6-BCEF-F1C930A018EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D498F13E-59CA-4BB6-BCEF-F1C930A018EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D498F13E-59CA-4BB6-BCEF-F1C930A018EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE2115D-5459-4770-8A16-E295FD2A88E2}
+	EndGlobalSection
+EndGlobal
